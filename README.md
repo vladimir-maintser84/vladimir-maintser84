@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladimir-maintser84
-- 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java
 - 📫 How to reach me vladimir.maintser1@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I love tea
