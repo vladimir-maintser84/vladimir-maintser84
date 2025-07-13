@@ -1,15 +1,49 @@
-# Hi there! 
+# 👋  Hi there! 
 
 ## About me
 
 My name is Vladimir Maintser, I am currently learning Software Development in college in Kazakhstan 🇰🇿
-I testing my skills in Frontend and Backend development since I don't know what I enjoy more. I am currently learning Java Core and make some projects.
+I'm actively exploring both Frontend and Backend development, as I'm still figuring out which path excites me more. Right now, I'm focusing on Java Core and building small projects to sharpen my skills.
 
-## Skills
 
-- Java
-- JavaScript
-- HTML
+## My goals:
+- ✅ Strengthen my programming skills
+- 🚀 Build large, meaningful projects
+- Land a developer job in the near future
+-----------------
+
+In my free time, I enjoy:
+
+- 🎮 Playing video games
+- 🍵 Practicing the tea ceremony
+
+
+I can communicate in English, Russian, and a bit of German.
+
+### 📫 Reach me: [vladimir.maintser1@gmail.com](mailto:vladimir.maintser1@gmail.com)
+
+
+
+# 🛠️ Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+--------
+
+# Projects 
+
+my currently biggest project : 
+
+- 📚 [Tracky](https://github.com/vladimir-maintser84/Tracky-learning-project) - A CLI Java Task Tracking Application
+
+--------
+
+![Vladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladimirMaintser&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirMaintser&layout=compact&theme=tokyonight)
+
 
 
 <!---
