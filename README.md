@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Vladimir Maintser, I am currently learning Software Development in college in Kazakhstan 🇰🇿
+My name is Vladimir Maintser, I am currently learning Software Development
 I'm actively exploring both Frontend and Backend development, as I'm still figuring out which path excites me more. Right now, I'm focusing on Java Core and building small projects to sharpen my skills.
 
 
