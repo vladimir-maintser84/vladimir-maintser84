@@ -9,7 +9,7 @@ I'm actively exploring both Frontend and Backend development, as I'm still figur
 ## My goals:
 - ✅ Strengthen my programming skills
 - 🚀 Build large, meaningful projects
-- Land a developer job in the near future
+- 👨‍💻 Land a developer job in the near future
 -----------------
 
 In my free time, I enjoy:
