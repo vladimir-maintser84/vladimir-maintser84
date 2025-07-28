@@ -18,7 +18,7 @@ In my free time, I enjoy:
 - 🍵 Practicing the tea ceremony
 
 
-I can communicate in English, Russian, and a bit of German.
+I can communicate in English, Russian, and German.
 
 ### 📫 Reach me: [vladimir.maintser1@gmail.com](mailto:vladimir.maintser1@gmail.com)
 
