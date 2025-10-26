@@ -26,7 +26,7 @@ I can communicate in English, Russian, and German.
 
 # 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,html,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,html)](https://skillicons.dev)
 
 
 
