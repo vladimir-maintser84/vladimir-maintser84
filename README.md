@@ -20,17 +20,6 @@ In my free time, I enjoy:
 
 I can communicate in English, Russian, and German.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vladimir.maintser1@gmail.com) 
-
-
-
-# 🛠️ Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,html)](https://skillicons.dev)
-
-
-
 --------
 
 # Projects 
@@ -40,6 +29,15 @@ my currently biggest project :
 - 📚 [Student Records Application](https://github.com/vladimir-maintser84/student-system-crud) - CRUD Student records application made with Spring Boot, Hibernate and MySQL
 
 --------
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vladimir.maintser1@gmail.com) 
+
+
+
+# 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,html)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-maintser84&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
