@@ -40,8 +40,10 @@ my currently biggest project :
 
 --------
 
-![Vladimir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladimirMaintser&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirMaintser&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vladimir-maintser84&theme=react-dark)
+![WakaTime Stats](https://wakatime.com/share/@username/unique-id.svg)
+
 
 
 
