@@ -20,7 +20,8 @@ In my free time, I enjoy:
 
 I can communicate in English, Russian, and German.
 
-### 📫 Reach me: [vladimir.maintser1@gmail.com](mailto:vladimir.maintser1@gmail.com)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vladimir.maintser1@gmail.com) 
 
 
 
@@ -41,13 +42,15 @@ my currently biggest project :
 --------
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vladimir-maintser84&theme=react-dark)
-![WakaTime Stats](<figure><embed src="https://wakatime.com/share/@101dfc8f-c89c-4363-893e-bb83904d4370/a3009ac3-d11f-459d-a8f0-c7afe9c6ea08.svg"></embed></figure>)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-maintser84&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vladimir-maintser84&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!---
-vladimir-maintser84/vladimir-maintser84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
