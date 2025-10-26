@@ -36,7 +36,7 @@ I can communicate in English, Russian, and German.
 
 my currently biggest project : 
 
-- 📚 [Tracky](https://github.com/vladimir-maintser84/Tracky-learning-project) - A CLI Java Task Tracking Application
+- 📚 [Tracky](https://github.com/vladimir-maintser84/Tracky-learning-project](https://github.com/vladimir-maintser84/student-system-crud)) - CRUD Student records application made with Spring Boot, Hibernate and MySQL
 
 --------
 
