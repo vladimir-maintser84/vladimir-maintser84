@@ -42,7 +42,7 @@ my currently biggest project :
 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vladimir-maintser84&theme=react-dark)
-![WakaTime Stats](https://wakatime.com/share/@username/unique-id.svg)
+![WakaTime Stats](<figure><embed src="https://wakatime.com/share/@101dfc8f-c89c-4363-893e-bb83904d4370/a3009ac3-d11f-459d-a8f0-c7afe9c6ea08.svg"></embed></figure>)
 
 
 
