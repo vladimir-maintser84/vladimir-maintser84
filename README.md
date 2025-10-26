@@ -26,8 +26,8 @@ I can communicate in English, Russian, and German.
 
 # 🛠️ Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,html,hibernate)](https://skillicons.dev)
+
 
 
 --------
