@@ -2,20 +2,19 @@
 
 ## About me
 
-My name is Vladimir Maintser, I am currently learning Software Development.
-I'm actively exploring both Frontend and Backend development, as I'm still figuring out which path excites me more. Right now, I'm focusing on Java Core and building small projects to sharpen my skills.
-
+My name is Vladimir Maintser, I am currently learning Software Engineering, namely Java with Spring Boot technologies.
 
 ## My goals:
 - ✅ Strengthen my programming skills
 - 🚀 Build large, meaningful projects
-- 👨‍💻 Land a developer job in the near future
+- 👨‍💻 Get a Computer Science degree
 -----------------
 
 In my free time, I enjoy:
 
 - 🎮 Playing video games
 - 🍵 Practicing the tea ceremony
+- ⚙️ Informing myself about current trends in tech industry
 
 
 I can communicate in English, Russian, and German.
