@@ -25,7 +25,7 @@ I can communicate in English, Russian, and German.
 
 my currently biggest project : 
 
-- 📚 [Student Records Application](https://github.com/vladimir-maintser84/student-system-crud) - CRUD Student records application made with Spring Boot, Hibernate and MySQL
+- 📚 [Movie Search Web App](https://github.com/vladimir-maintser84/movie-search-app) - Movie Search App with OMBD API
 
 --------
 
