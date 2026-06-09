@@ -21,14 +21,6 @@ I can communicate in English, Russian, and German.
 
 --------
 
-# Projects 
-
-my currently biggest project : 
-
-- 📚 [Movie Search Web App](https://github.com/vladimir-maintser84/movie-search-app) - Movie Search App with OMBD API
-
---------
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vladimir.maintser1@gmail.com) 
 
